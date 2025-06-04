@@ -1,0 +1,8 @@
+# Java
+*/target/
+
+# Node
+frontend/node_modules/
+
+# misc
+.DS_Store
